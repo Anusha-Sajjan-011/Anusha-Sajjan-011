@@ -31,7 +31,7 @@
 ---
 ### 📌 Pinned Projects
 
-[![Project: Airbnb Wanderlust](https://github-readme-stats.vercel.app/api/pin/?username=anusha&repo=airbnb-wanderlust&theme=radical)](https://github.com/anusha/airbnb-wanderlust)
+[![Project: Airbnb Wanderlust](https://github-readme-stats.vercel.app/api/pin/?username=anusha&repo=airbnb-wanderlust&theme=radical)]([https://github.com/anusha/airbnb-wanderlust](https://github.com/Anusha-Sajjan-011/new-project.git))
 [![Project: Stream Questor](https://github-readme-stats.vercel.app/api/pin/?username=anusha&repo=stream-questor&theme=radical)](https://github.com/anusha/stream-questor)
 
 ---
