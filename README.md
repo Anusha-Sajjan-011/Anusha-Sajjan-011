@@ -1,4 +1,4 @@
-# Hi there, I'm Anusha Sajjan! 👋
+# Hi there, I'm Anusha M G! 👋
 
 🚀 **Aspiring Full-Stack Developer | Java & Spring Boot Enthusiast | Problem Solver**
 
